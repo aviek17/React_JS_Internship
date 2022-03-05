@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.frame1{
+  margin-top: 20px;;
+}
+
+.frame2{
+  margin-top: 10px;
+  width: 18rem;
+  display: block;
+  justify-content: space-around;
+  text-align: center;
+  
+}
+.formDesign{
+  margin-top:20px
+}
+.design{
+  font-weight: 600;
+}
+
+.card-design{
+  border-color: black;
+  border-radius: 10px;
+}
+
+
+.card-designa{
+  border-color: black;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+
+.button{
+  display:flex;
+  justify-content: center;
+}
